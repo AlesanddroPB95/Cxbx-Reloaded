@@ -3,7 +3,7 @@
 // ******************************************************************
 // *   src->devices->chihiro->MediaBoard.cpp
 // *
-// *  This file is part of the Cxbx Reloaded Reproject.
+// *  This file is part of the Cxbx Reloaded project.
 // *
 // *  Cxbx and Cxbe are free software; you can redistribute them
 // *  and/or modify them under the terms of the GNU General Public
